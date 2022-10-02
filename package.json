@@ -3,13 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@truffle/hdwallet-provider": "^2.0.15",
+    "antd": "^4.23.2",
+    "axios": "^0.27.2",
+    "buffer": "^6.0.3",
+    "dotenv": "^16.0.2",
+    "ethers": "^5.7.1",
+    "ipfs-http-client": "^58.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "truffle": "^5.5.31",
+    "web-vitals": "^2.1.4",
+    "web3modal": "^1.9.9"
   },
   "scripts": {
     "start": "react-scripts start",
