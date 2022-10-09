@@ -16,8 +16,8 @@ This is the contract address for the NFT marketplace deployed to the network.
 REACT_APP_NFTMARKETADDRESS
 
 IPFS variables are used to store NFT metadata. Add the following to .env file with details for your IPFS details
-REACT_APP_IPFSPROJECTID
-REACT_APP_IPFSPROJECTSECRET
+REACT_APP_IPFSPROJECTID,
+REACT_APP_IPFSPROJECTSECRET,
 REACT_APP_IPFSDEDICATED
 
 Add a provider variable for the RPC provider used
